@@ -3,7 +3,7 @@
 This is a basic Todo app made with Flutter. The app allows users to create a list of tasks that they need to complete, and mark them as complete when finished.
 
 ## Demo
-
+![Simulator_Screen_Recording_-_iPhone_14_Pro_Max_-_2023-03-13_at_12_04_18_AdobeExpress](https://user-images.githubusercontent.com/127768466/224782534-9e8bb7e5-d787-4a85-8ddc-620db577d829.gif)
 
 ## Getting Started
 
@@ -32,3 +32,4 @@ To delete a Todo, simply swipe left on the task you want to delete, and then tap
 ## Conclusion
 
 This is a basic Todo app made with Flutter. It is a great starting point for anyone looking to build their own Todo app, or for anyone looking to learn more about Flutter.
+
